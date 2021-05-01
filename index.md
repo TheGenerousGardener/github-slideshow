@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to TheGenerousGardener Website 
 
 You can use the [editor on GitHub](https://github.com/TheGenerousGardener/github-slideshow/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
